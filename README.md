@@ -57,4 +57,4 @@ hobbies: ["Building side projects", "Gaming"]
 </p>
 
 
-![Snake animation](https://github.com/Iheb012/Iheb012/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
