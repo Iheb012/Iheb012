@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXY1ZGJ0Y3l4MTg5NG4ycWtqdHc3dTQ0ZjAyb3puZW8yeThxZm9ocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTur7XlVDUdqM/giphy.gif"/>
+  <img src="https://i.giphy.com/NTur7XlVDUdqM.gif"/>
 </p>
 
 ```yaml
