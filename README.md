@@ -1,16 +1,17 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=300&section=header&text=Hello!&fontSize=90"/>
 </p>
-<p align="center"
-<a href="https://www.linkedin.com/in/iheb-tarhouni-a8655529b">
-  <img height="50" src="https://cdn-icons-png.magnific.com/128/725/725337.png"/>
-</a>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/iheb-tarhouni-a8655529b">
+    <img height="50" src="https://cdn-icons-png.magnific.com/128/725/725337.png"/>
+  </a>
 </p>
-<p aligne=center
-<a align="center">
+
+<p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXY1ZGJ0Y3l4MTg5NG4ycWtqdHc3dTQ0ZjAyb3puZW8yeThxZm9ocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTur7XlVDUdqM/giphy.gif"/>
-</a>
 </p>
+
 ```yaml
 name: Iheb Tarhouni
 located_in: Tunisia
@@ -39,6 +40,7 @@ currently_learning: ["Local LLM deployment", "Advanced ML for network security"]
 2026_goals: ["Finish AI Network Copilot"]
 hobbies: ["Building side projects", "Gaming"]
 ```
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -56,5 +58,4 @@ hobbies: ["Building side projects", "Gaming"]
 <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 </p>
 
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Iheb012/Iheb012/output/github-contribution-grid-snake.svg)
