@@ -58,4 +58,3 @@ hobbies: ["Building side projects", "Gaming"]
 <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/Iheb012/Iheb012/output/github-contribution-grid-snake.svg?v=2)
