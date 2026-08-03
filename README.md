@@ -58,6 +58,9 @@ hobbies: ["Building side projects", "Gaming"]
 <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 </p>
 
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Iheb012)](https://github.com/stats-organization/github-stats-extended)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
