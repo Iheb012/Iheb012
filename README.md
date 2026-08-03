@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=300&section=header&text=Hello!&fontSize=90"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello!&fontSize=90"/>
 </p>
 
 <p align="center">
@@ -57,7 +57,6 @@ hobbies: ["Building side projects", "Gaming"]
 <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/npm/npm-original.svg" alt="npm" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 </p>
-
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Iheb012)](https://github.com/stats-organization/github-stats-extended)
 
