@@ -58,7 +58,11 @@ hobbies: ["Building side projects", "Gaming"]
 <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 </p>
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Iheb012)](https://github.com/stats-organization/github-stats-extended)
+<p align="center">
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=Iheb012&layout=compact&langs_count=4&theme=synthwave">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Iheb012&layout=compact&langs_count=4&theme=synthwave" alt="Top Languages" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
